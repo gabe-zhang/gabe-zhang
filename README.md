@@ -6,7 +6,6 @@
 
 🕵️‍♂️ **Data Detective**  
 👨‍🎓 MS in Machine Learning and Data Science @ [Northwestern University](https://www.mccormick.northwestern.edu/machine-learning-data-science/)  
-💼 Data Science Engineer Intern @ [SS&C Intralinks](https://www.intralinks.com/)
 
 ## About Me
 
@@ -20,4 +19,4 @@ I love reading Sherlock Holmes! I appreciate his ability to unravel mysterious c
 
 ## Interests
 
-Data Science | Machine/Deep Learning | Multimodal LLMs | GenAI | AGI
+Deep Learning | Multimodal LLMs | AI Ethics
