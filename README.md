@@ -19,4 +19,4 @@ I love reading Sherlock Holmes! I appreciate his ability to unravel mysterious c
 
 ## Interests
 
-Deep Learning | Multimodal LLMs | AI Ethics
+Efficient Deep Learning Computing, Multimodal Learning
