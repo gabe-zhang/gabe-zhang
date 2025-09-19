@@ -4,9 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/gabe-zhang/)
 [![Email](https://img.shields.io/badge/Email-FFFFFF?logo=Gmail)](mailto:yuanzzhang3@gmail.com)
 
-👨‍🎓 MS in Machine Learning and Data Science @ [Northwestern University](https://www.mccormick.northwestern.edu/machine-learning-data-science/)  
+Research Assistant at North Dakota State University
 
-
-## Interests
-- Efficient Deep Learning Computing
-- Multimodal Learning
+## Research Interests
+- Efficient Machine Learning
+- Edge Computing
+- Precision Agriculture
+- Robotics
